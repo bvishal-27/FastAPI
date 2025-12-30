@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.venv
+.env
+.venv
+myenv/
+
+# VS Code
+.vscode/
+
+# Node/React
+frontend/node_modules/
+frontend/build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database
+*.sqlite3
+*.db
+
+# Logs
+*.log
+
+# Misc
+*.swp
+*.swo
